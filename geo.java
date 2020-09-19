@@ -1,4 +1,4 @@
-public class Main
+public class geo
 {
     static double calRad = 57.29577951;
     static double forKms = 6371;
